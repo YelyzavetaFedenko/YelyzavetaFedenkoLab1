@@ -1,2 +1,5 @@
 Lab1 is ready
+New commit
+New line
+
 Lab2 is ready too
